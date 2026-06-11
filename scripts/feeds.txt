@@ -1,0 +1,22 @@
+# THRESHOLD source feeds — one RSS/Atom URL per line. Lines starting with # are ignored.
+# Curated for surveillance / gov overreach / AI threats / consumer privacy.
+# Edit freely. Higher-signal investigative outlets are weighted in the judge prompt.
+
+# --- Investigative / primary-source heavy (highest signal) ---
+https://www.404media.co/rss/
+https://theintercept.com/feed/?rss
+https://www.eff.org/rss/updates.xml
+https://epic.org/feed/
+
+# --- Privacy / surveillance focused ---
+https://www.wired.com/feed/category/security/latest/rss
+https://www.wired.com/feed/tag/privacy/latest/rss
+
+# --- Security / breach reporting ---
+https://www.bleepingcomputer.com/feed/
+https://krebsonsecurity.com/feed/
+https://therecord.media/feed/
+http://feeds.arstechnica.com/arstechnica/technology-lab
+
+# --- Civil liberties ---
+https://www.aclu.org/feed

@@ -1,0 +1,56 @@
+{
+  "updated": "2026-06-11T14:30:00Z",
+  "note": "SAMPLE DATA — illustrative only. Replace by running scripts/judge.py.",
+  "items": [
+    {
+      "tier": "S",
+      "headline": "Leaked contract shows Flock Safety license-plate cameras feeding a live ICE lookup pipeline in 40 cities",
+      "url": "https://example.com/sample-flock-ice",
+      "source": "404 Media",
+      "date": "2026-06-11T12:10:00Z",
+      "villain": "Flock / ICE",
+      "tags": ["LEAK", "DIGITAL→PHYSICAL", "ANYONE WHO DRIVES"],
+      "why": "Primary-source contract + named villain + surveillance that ends in real-world enforcement."
+    },
+    {
+      "tier": "S",
+      "headline": "Court filing reveals DHS bought location data on 250M phones without warrants, used it for raids",
+      "url": "https://example.com/sample-dhs-location",
+      "source": "The Intercept",
+      "date": "2026-06-11T09:40:00Z",
+      "villain": "DHS / CBP",
+      "tags": ["COURT FILING", "DIGITAL→PHYSICAL", "ANYONE WITH A PHONE"],
+      "why": "Court document exposes a hidden, deployed system affecting a universal pool."
+    },
+    {
+      "tier": "A",
+      "headline": "Clearview AI now holds 60 billion face scans; new docs show it scraped a major social platform's private photos",
+      "url": "https://example.com/sample-clearview",
+      "source": "The Markup",
+      "date": "2026-06-11T08:05:00Z",
+      "villain": "Clearview AI",
+      "tags": ["BIOMETRICS", "ANYONE WITH A FACE"],
+      "why": "Named villain, broad pool, deployed system — strong but no direct enforcement bridge yet."
+    },
+    {
+      "tier": "A",
+      "headline": "FOIA release: TSA expanded facial recognition to 80 more airports, opt-out quietly removed",
+      "url": "https://example.com/sample-tsa",
+      "source": "EFF",
+      "date": "2026-06-11T07:20:00Z",
+      "villain": "TSA",
+      "tags": ["FOIA", "BIOMETRICS", "ANYONE WHO FLIES"],
+      "why": "FOIA disclosure of a real expansion; pool is broad but not quite universal."
+    },
+    {
+      "tier": "B",
+      "headline": "New study finds consumer car app shares precise driving data with 12 brokers by default",
+      "url": "https://example.com/sample-car-app",
+      "source": "Ars Technica",
+      "date": "2026-06-11T05:50:00Z",
+      "villain": "data brokers",
+      "tags": ["TROJAN HORSE", "ANYONE WHO DRIVES"],
+      "why": "Trojan-horse data flow, broad pool, but no named Tier-S agency on the receiving end."
+    }
+  ]
+}
